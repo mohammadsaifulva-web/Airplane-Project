@@ -1,6 +1,7 @@
 # ✈️ Global Aviation Performance & Safety Analytics (Power BI)
 
 ## 📌 Project Overview
+![Aviation Analytics Dashboard](Screenshot%20\(21\).png)
 This interactive Power BI dashboard provides an executive overview of global airline operations, flight safety, passenger trends, and financial recovery. It is designed to help aviation analysts and decision-makers monitor revenue metrics and safety records in real time.
 
 ---
